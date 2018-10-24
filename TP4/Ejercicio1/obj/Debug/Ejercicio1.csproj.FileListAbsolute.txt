@@ -1,0 +1,7 @@
+E:\Taller De Programacion\Tp4\TP4\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\Taller De Programacion\Tp4\TP4\Ejercicio1\bin\Debug\Ejercicio1.exe
+E:\Taller De Programacion\Tp4\TP4\Ejercicio1\bin\Debug\Ejercicio1.pdb
+E:\Taller De Programacion\Tp4\TP4\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+E:\Taller De Programacion\Tp4\TP4\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+E:\Taller De Programacion\Tp4\TP4\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\Taller De Programacion\Tp4\TP4\Ejercicio1\obj\Debug\Ejercicio1.pdb
