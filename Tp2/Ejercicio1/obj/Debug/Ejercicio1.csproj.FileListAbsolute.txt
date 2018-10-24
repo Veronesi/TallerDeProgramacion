@@ -1,0 +1,14 @@
+E:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+E:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+E:\Taller de Programacion\Tp2\Tp2\Tp2\bin\Debug\Tp2.exe.config
+E:\Taller de Programacion\Tp2\Tp2\Tp2\bin\Debug\Tp2.exe
+E:\Taller de Programacion\Tp2\Tp2\Tp2\bin\Debug\Tp2.pdb
+E:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Tp2.exe
+E:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Tp2.pdb
+F:\Taller de Programacion\Tp2\Tp2\Tp2\bin\Debug\Tp2.exe.config
+F:\Taller de Programacion\Tp2\Tp2\Tp2\bin\Debug\Tp2.exe
+F:\Taller de Programacion\Tp2\Tp2\Tp2\bin\Debug\Tp2.pdb
+F:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+F:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+F:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Tp2.exe
+F:\Taller de Programacion\Tp2\Tp2\Tp2\obj\Debug\Tp2.pdb

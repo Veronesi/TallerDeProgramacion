@@ -1,0 +1,14 @@
+F:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+F:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+F:\Taller\TP2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+F:\Taller\TP2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+F:\Taller\TP2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+F:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+F:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
+D:\Taller\TP2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+D:\Taller\TP2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+D:\Taller\TP2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+D:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+D:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+D:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+D:\Taller\TP2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb

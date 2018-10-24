@@ -1,0 +1,14 @@
+E:\Taller de Programacion\Tp2\Tp2\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+E:\Taller de Programacion\Tp2\Tp2\Ejercicio4\bin\Debug\Ejercicio4.exe
+E:\Taller de Programacion\Tp2\Tp2\Ejercicio4\bin\Debug\Ejercicio4.pdb
+E:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+E:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+E:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.exe
+E:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.pdb
+F:\Taller de Programacion\Tp2\Tp2\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+F:\Taller de Programacion\Tp2\Tp2\Ejercicio4\bin\Debug\Ejercicio4.exe
+F:\Taller de Programacion\Tp2\Tp2\Ejercicio4\bin\Debug\Ejercicio4.pdb
+F:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+F:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+F:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.exe
+F:\Taller de Programacion\Tp2\Tp2\Ejercicio4\obj\Debug\Ejercicio4.pdb
