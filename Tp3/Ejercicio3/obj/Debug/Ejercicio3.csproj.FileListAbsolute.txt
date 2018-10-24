@@ -1,0 +1,7 @@
+D:\Facultad\_Taller de Programacion\Tp3\Tp3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\Facultad\_Taller de Programacion\Tp3\Tp3\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\Facultad\_Taller de Programacion\Tp3\Tp3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\Facultad\_Taller de Programacion\Tp3\Tp3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+D:\Facultad\_Taller de Programacion\Tp3\Tp3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Facultad\_Taller de Programacion\Tp3\Tp3\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\Facultad\_Taller de Programacion\Tp3\Tp3\Ejercicio3\obj\Debug\Ejercicio3.pdb
